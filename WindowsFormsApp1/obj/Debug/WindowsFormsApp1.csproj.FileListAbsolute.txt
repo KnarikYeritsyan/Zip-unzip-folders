@@ -1,0 +1,14 @@
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DotNetZip.dll
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\DotNetZip.xml
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pvc.Core.dll
+C:\Users\Knarik\Desktop\sisharp\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\Pvc.Gzip.dll
